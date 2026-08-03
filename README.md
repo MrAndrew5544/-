@@ -1,1 +1,1 @@
-To download a version, click on the file and open the html. To transfer data from an older version to a newer one, go to the old version and click export (that'll download you a data file), then download the new version, click import in it and choose the file you downloaded.
+
